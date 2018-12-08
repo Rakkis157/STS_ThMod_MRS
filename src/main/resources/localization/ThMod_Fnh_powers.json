@@ -9,9 +9,9 @@
   "ExtraDraw": {
     "NAME": "Escape Velocity",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " more cards and add #b",
-      " #yBurn(s) to your hand at each start of your turn."
+      "At the start of your turn, draw #b",
+      " cards and add #b",
+      " #yBurn(s) to your hand."
     ]
   },
   "EventHorizonPower": {
